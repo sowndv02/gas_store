@@ -87,37 +87,78 @@ The project utilizes the following technologies and tools:
 
 ![screencapture-localhost-14014-admin-2022-07-27-13_11_13](https://github.com/sowndv02/gas_store/blob/8ac7ff6dd8d05b5bd86bc41c18ba302a4812ccf0/images/Web%20capture_3-8-2023_15359_localhost.jpeg)
 ![screencapture-localhost-14014-admin-movies-add-2022-07-27-13_11_25](https://github.com/sowndv02/gas_store/blob/8ac7ff6dd8d05b5bd86bc41c18ba302a4812ccf0/images/Web%20capture_3-8-2023_153816_localhost.jpeg)
-![screencapture-localhost-14014-admin-movies-add-2022-07-27-13_11_25]()
+![screencapture-localhost-14014-admin-movies-add-2022-07-27-13_11_25](https://github.com/sowndv02/gas_store/blob/fd13c97559a5c129d72ca291baf7964ed0968cef/images/Web%20capture_3-8-2023_203453_localhost.jpeg)
 
 - Manage suppliers and shippers
 
-![screencapture-localhost-14014-admin-Companies-2022-07-27-13_12_07]
-![screencapture-localhost-14014-Admin-Celebrities-2022-07-27-13_11_57]
-![screencapture-localhost-14014-admin-genres-2022-07-27-13_12_16]
-![screencapture-localhost-14014-admin-Companies-2022-07-27-13_12_07]
+![screencapture-localhost-14014-admin-Companies-2022-07-27-13_12_07](https://github.com/sowndv02/gas_store/blob/fd13c97559a5c129d72ca291baf7964ed0968cef/images/Web%20capture_3-8-2023_153836_localhost.jpeg)
+![screencapture-localhost-14014-Admin-Celebrities-2022-07-27-13_11_57](https://github.com/sowndv02/gas_store/blob/fd13c97559a5c129d72ca291baf7964ed0968cef/images/Web%20capture_3-8-2023_153826_localhost.jpeg)
+![screencapture-localhost-14014-admin-genres-2022-07-27-13_12_16](https://github.com/sowndv02/gas_store/blob/fd13c97559a5c129d72ca291baf7964ed0968cef/images/Web%20capture_3-8-2023_153545_localhost.jpeg)
+![screencapture-localhost-14014-admin-Companies-2022-07-27-13_12_07](https://github.com/sowndv02/gas_store/blob/fd13c97559a5c129d72ca291baf7964ed0968cef/images/Web%20capture_3-8-2023_15365_localhost.jpeg)
 
 - Manage users account. If the account is unlocked or locked, a notification will be sent to the user's email
 
-![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]
-![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_25]
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35](https://github.com/sowndv02/gas_store/blob/fd13c97559a5c129d72ca291baf7964ed0968cef/images/Web%20capture_3-8-2023_153456_localhost.jpeg)
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_25](https://github.com/sowndv02/gas_store/blob/fd13c97559a5c129d72ca291baf7964ed0968cef/images/Web%20capture_3-8-2023_153616_localhost.jpeg)
 
-- Manage orders (change status order)
+- Manage orders (change status order), View orderdetail, Export Excel file
 
-![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35](https://github.com/sowndv02/gas_store/blob/fd13c97559a5c129d72ca291baf7964ed0968cef/images/Web%20capture_3-8-2023_15339_localhost.jpeg)
+
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35](https://github.com/sowndv02/gas_store/blob/fd13c97559a5c129d72ca291baf7964ed0968cef/images/Web%20capture_3-8-2023_153324_localhost.jpeg)
 
 - Respond to user feedback. A notification will be sent to the user's email if the response is processed
 
-![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]
-![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_25]
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35](https://github.com/sowndv02/gas_store/blob/fd13c97559a5c129d72ca291baf7964ed0968cef/images/Web%20capture_3-8-2023_153243_localhost.jpeg)
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_25](https://github.com/sowndv02/gas_store/blob/fd13c97559a5c129d72ca291baf7964ed0968cef/images/Web%20capture_3-8-2023_153254_localhost.jpeg)
 
 - Manage user reviews about products (hide/show) reviews. A notification will be sent to the user's email if the user's review is hidden or violated
 
-![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35](https://github.com/sowndv02/gas_store/blob/fd13c97559a5c129d72ca291baf7964ed0968cef/images/Web%20capture_3-8-2023_153339_localhost.jpeg)
 
 - Admin can forgot password. Admin can submit a request for a new password. The system will send an OTP to their email
 
-![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35](https://github.com/sowndv02/gas_store/blob/fd13c97559a5c129d72ca291baf7964ed0968cef/images/Screenshot%202023-08-03%20153127.png)
 
+- Manage news: Admin can view list news, create, update, delete news
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35](https://github.com/sowndv02/gas_store/blob/fd13c97559a5c129d72ca291baf7964ed0968cef/images/Web%20capture_3-8-2023_153347_localhost.jpeg)
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35](https://github.com/sowndv02/gas_store/blob/fd13c97559a5c129d72ca291baf7964ed0968cef/images/Web%20capture_3-8-2023_15341_localhost.jpeg)
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35](https://github.com/sowndv02/gas_store/blob/fd13c97559a5c129d72ca291baf7964ed0968cef/images/Web%20capture_3-8-2023_15385_localhost.jpeg)
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35](https://github.com/sowndv02/gas_store/blob/fd13c97559a5c129d72ca291baf7964ed0968cef/images/Web%20capture_3-8-2023_15385_localhost.jpeg)
+
+- Manage FAQs: Admin can view list all Faqs, create, update, delete Faqs.
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35](https://github.com/sowndv02/gas_store/blob/fd13c97559a5c129d72ca291baf7964ed0968cef/images/Web%20capture_3-8-2023_153435_localhost.jpeg)
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35](https://github.com/sowndv02/gas_store/blob/fd13c97559a5c129d72ca291baf7964ed0968cef/images/Web%20capture_3-8-2023_153732_localhost.jpeg)
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35](https://github.com/sowndv02/gas_store/blob/fd13c97559a5c129d72ca291baf7964ed0968cef/images/Web%20capture_3-8-2023_153747_localhost.jpeg)
+
+- Manage discount: Admin can view all discount, create, update, change status discount
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35](https://github.com/sowndv02/gas_store/blob/fd13c97559a5c129d72ca291baf7964ed0968cef/images/Web%20capture_3-8-2023_153427_localhost.jpeg)
+
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()
 
 ## How to Run the Project
 

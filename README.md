@@ -141,7 +141,9 @@ The project utilizes the following technologies and tools:
 
 ![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35](https://github.com/sowndv02/gas_store/blob/7b8bfbf9aa405f36289f4e522828378b6e3b833d/images/Web%20capture_3-8-2023_205827_localhost.jpeg)
 ![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35](https://github.com/sowndv02/gas_store/blob/018eae181c894b73f8f2d2ed616d2180eb268df8/images/Web%20capture_3-8-2023_153648_localhost.jpeg)
-![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35](https://github.com/sowndv02/gas_store/blob/c436273d0e33591df5def3f499c698e5714595d1/images/A%CC%89nh1.png)
+
+
 ![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()
 ![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()
 ![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()

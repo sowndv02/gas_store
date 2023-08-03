@@ -16,7 +16,7 @@ The project utilizes the following technologies and tools:
 - JavaMail API
 - Google API
 - Jquery
-- Chart.js
+- Charts.js
 - Maven
 - Google Appscript
 
@@ -163,7 +163,7 @@ The project utilizes the following technologies and tools:
 
 The website uses a relational database to store and manage data. Here is a simplified version of the database schema:
 
-![Database Schema]()
+![Database Schema](https://github.com/sowndv02/gas_store/blob/62bad348862ba10effdb3805dc9dab9ef19a5664/images/A%CC%89nh2.png)
 
 ## Contribution Guidelines
 - Đào Văn Sơn

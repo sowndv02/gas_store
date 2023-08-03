@@ -102,29 +102,7 @@
                                             </div>
                                             <span></span>
                                             <div class="minicart">
-                                                <c:choose>
-                                                    <c:when test="${size != 0}">
-                                                        <ul class="minicart-product-list">
-                                                            <c:forEach items="${o.items}" var="i">
-                                                                <li class="del${iId}">
-                                                                    <a href="${pageContext.request.contextPath}/client/products?id=${iId}" class="minicart-product-image"><img  src="${pageContext.request.contextPath}/${i.base64Image}" alt="Preview" />
-                                                                    </a>
-                                                                    <div class="minicart-product-details">
-                                                                        <h6>${i.name}</h6>
-                                                                        <span class="qty${iId}">Số lượng: ${i.quantity}</span>
-                                                                    </div>
-                                                                    <span><fmt:formatNumber value = "${Math.round((i.unitPrice - i.unitPrice * i.discount.discount)/1000)*1000}" type = "currency"/>  </span>
-
-                                                                    <button onclick="a(${iId})"class="close" title="Remove">
-                                                                        <i class="fa fa-close"></i>
-                                                                    </button>
-                                                                </li>
-                                                            </c:forEach>
-                                                        </ul>
-                                                        <p class="minicart-total">TỔNG PHỤ: <span><fmt:formatNumber value="${Math.round((o.totalMoney)/1000)*1000}" type="currency"/></span></p>
-                                                    </c:when>
-                                                    <c:otherwise><img style="width:250px" src="images/menu/logo/no_cart.png" alt="alt"/></c:otherwise>
-                                                </c:choose>
+                                                
                                                 <div class="minicart-button">
                                                     <a href="${pageContext.request.contextPath}/client/cartshow" class="li-button li-button-fullwidth li-button-dark">
                                                         <span>Giỏ hàng</span>

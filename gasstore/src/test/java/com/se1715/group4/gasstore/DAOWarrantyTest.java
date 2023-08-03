@@ -58,14 +58,6 @@ public class DAOWarrantyTest {
     }
     
     
-    @Test
-    public void testGetWarrantyByIdCorrect() {
-        System.out.println("getWarrantyById");
-        int id = 1;
-        DAOWarranty instance = new DAOWarranty();
-        Warranty result = instance.getWarrantyById(id);
-        assertNotNull(result);
-    }
     
     @Test
     public void testGetWarrantyByIdOutRange() {

@@ -7,15 +7,15 @@
 
 - This is HomePage
 
-![screencapture-localhost-14014-2022-07-27-13_06_45]
+![screencapture-localhost-14014-2022-07-27-13_06_45](https://github.com/sowndv02/gas_store/blob/8427f935f77aa671a0bc125bb63097b69c5c182b/images/Web%20capture_3-8-2023_145231_localhost.jpeg)
 
 - This is the products listing page
 
-![screencapture-localhost-14014-Product-List-2022-07-27-13_07_00]
+![screencapture-localhost-14014-Product-List-2022-07-27-13_07_00](https://github.com/sowndv02/gas_store/blob/8427f935f77aa671a0bc125bb63097b69c5c182b/images/Web%20capture_3-8-2023_15226_localhost.jpeg)
 
 - This is the page showing the product details
 
-![screencapture-localhost-14014-Celebrity-List-2022-07-27-13_07_22]
+![screencapture-localhost-14014-Celebrity-List-2022-07-27-13_07_22](https://github.com/sowndv02/gas_store/blob/8427f935f77aa671a0bc125bb63097b69c5c182b/images/Web%20capture_3-8-2023_15237_localhost.jpeg)
 
 - Clicking on any product will take you to the detail page of that product. Users can add to the cart the product user want to buy. Users when registered to the system can checkout with products in the cart, and view information about products, such as suppliers, product reviews, and a list of products related to that genre.
 

@@ -131,14 +131,16 @@ The project utilizes the following technologies and tools:
 ![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35](https://github.com/sowndv02/gas_store/blob/fd13c97559a5c129d72ca291baf7964ed0968cef/images/Web%20capture_3-8-2023_153732_localhost.jpeg)
 ![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35](https://github.com/sowndv02/gas_store/blob/fd13c97559a5c129d72ca291baf7964ed0968cef/images/Web%20capture_3-8-2023_153747_localhost.jpeg)
 
-- Manage discount: Admin can view all discount, create, update, change status discount
+- Manage discount: Admin can view all discount, create, update, change status discount, add product with discount selected
 ![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35](https://github.com/sowndv02/gas_store/blob/fd13c97559a5c129d72ca291baf7964ed0968cef/images/Web%20capture_3-8-2023_153427_localhost.jpeg)
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35](https://github.com/sowndv02/gas_store/blob/018eae181c894b73f8f2d2ed616d2180eb268df8/images/Web%20capture_3-8-2023_153711_localhost.jpeg)
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35](https://github.com/sowndv02/gas_store/blob/018eae181c894b73f8f2d2ed616d2180eb268df8/images/Web%20capture_3-8-2023_205424_localhost.jpeg)
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35](https://github.com/sowndv02/gas_store/blob/018eae181c894b73f8f2d2ed616d2180eb268df8/images/Web%20capture_3-8-2023_20548_localhost.jpeg)
+
+- Manage Warranty: Admin can accept warranty from customer and generate bill for customer
 
 ![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()
-![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()
-![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()
-![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()
-![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()
+![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35](https://github.com/sowndv02/gas_store/blob/018eae181c894b73f8f2d2ed616d2180eb268df8/images/Web%20capture_3-8-2023_153648_localhost.jpeg)
 ![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()
 ![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()
 ![screencapture-localhost-14014-admin-Users-2022-07-27-13_12_35]()

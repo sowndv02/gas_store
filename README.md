@@ -78,16 +78,16 @@ The project utilizes the following technologies and tools:
 - Users can view frequently asked questions through the website's FAQ section
 ![screencapture-localhost-14014-User-Profile-2022-07-27-13_10_10](https://github.com/sowndv02/gas_store/blob/25f9cd5e22eaf5212413c74bead718cef90bda47/images/Web%20capture_3-8-2023_152448_localhost.jpeg)
 
-- Next is the admin page that will display the number of orders by month, total users, total orders, and total feedback from customers. And pending orders (new orders). New customers and top 5 customers with the largest usage amount. Products that have reached the time of quality inspection - click to send email to users. New comments
+- Next is the admin page that will display the number of orders by month, total users, total orders, and total feedback from customers. And pending orders (new orders). New customers and top 5 customers with the largest usage amount. Products that have reached the time of quality inspection - click to send email to users. Warn products with more than 5 warranties in 1 month. 
 
-![screencapture-localhost-14014-Admin-Dashboard-2022-07-27-13_12_50]()
-![screencapture-localhost-14014-Admin-Dashboard-2022-07-27-13_12_50]()
+![screencapture-localhost-14014-Admin-Dashboard-2022-07-27-13_12_50](https://github.com/sowndv02/gas_store/blob/8ac7ff6dd8d05b5bd86bc41c18ba302a4812ccf0/images/Web%20capture_3-8-2023_153151_localhost.jpeg)
+![screencapture-localhost-14014-Admin-Dashboard-2022-07-27-13_12_50](https://github.com/sowndv02/gas_store/blob/8ac7ff6dd8d05b5bd86bc41c18ba302a4812ccf0/images/Screenshot%202023-08-03%20202950.png)
 
 - Admin can see the product list, add, edit, hide products
 
-![screencapture-localhost-14014-admin-2022-07-27-13_11_13]
-![screencapture-localhost-14014-admin-movies-add-2022-07-27-13_11_25]
-![screencapture-localhost-14014-admin-movies-add-2022-07-27-13_11_25]
+![screencapture-localhost-14014-admin-2022-07-27-13_11_13](https://github.com/sowndv02/gas_store/blob/8ac7ff6dd8d05b5bd86bc41c18ba302a4812ccf0/images/Web%20capture_3-8-2023_15359_localhost.jpeg)
+![screencapture-localhost-14014-admin-movies-add-2022-07-27-13_11_25](https://github.com/sowndv02/gas_store/blob/8ac7ff6dd8d05b5bd86bc41c18ba302a4812ccf0/images/Web%20capture_3-8-2023_153816_localhost.jpeg)
+![screencapture-localhost-14014-admin-movies-add-2022-07-27-13_11_25]()
 
 - Manage suppliers and shippers
 
